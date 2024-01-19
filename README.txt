@@ -1,9 +1,9 @@
 # Block Run ⏹️🏃‍♂️
 
-A Unity C#
+A Unity C\#
 
 ## Technologies Used
-> Unity, C#
+> Unity, C\#
 
 ## Gameplay and Rules
 <p>
