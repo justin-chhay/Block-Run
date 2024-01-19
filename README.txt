@@ -1,18 +1,16 @@
 # Block Run ⏹️🏃‍♂️
 
-A Unity C\#
-
 ## Technologies Used
-> Unity, C\#
+- Unity
+- C#
 
 ## Gameplay and Rules
-<p>
-    Avoid the oncoming obstacles as you pilot your cube around them on a fast-moving platform. A very simple game which utilizes the WASD or arrow keys.
-</p>
+Avoid the oncoming obstacles as you pilot your cube around them on a fast-moving platform. Control your cube using the WASD or arrow keys.
 
-<img src="./images/gameScreenshot.png" width="400">
+![Game Screenshot](./images/gameScreenshot.png)
+*Gameplay Screenshot*
 
-<img src="./images/victoryScreen.png" width="400">
+![Victory Screen](./images/victoryScreen.png)
+*Victory Screen*
 
-`v1.0`
-
+### Version 1.0 Update
